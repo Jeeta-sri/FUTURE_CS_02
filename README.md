@@ -237,6 +237,6 @@ Strong email security controls, combined with user awareness training, form a cr
 
 ## 👤 Author
 
-Srijeeta Dutta
+Srijeeta Dutta,
 Cybersecurity Enthusiast
 
